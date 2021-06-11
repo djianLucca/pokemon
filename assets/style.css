@@ -1,0 +1,17 @@
+body {
+  background: url("bg.webp");
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-rosinha {
+  background-color: #e412bd;
+  color: white;
+}
+p.bg-rosinha {
+  font-size: 20px;
+}
+img.pokemon-image {
+  width: 150px;
+  margin: 10px;
+}
